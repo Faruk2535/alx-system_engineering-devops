@@ -1,1 +1,1 @@
-this first script prints workingdirecoty
+where am i
